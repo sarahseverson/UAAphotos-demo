@@ -7,7 +7,7 @@ layout: page
   <div class="col-md-8">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" height="300" %}
+    {% include index/carousel.html title="Optional title" height="300" %}
   
   </div>
   <div class="col-md-4">  
@@ -16,14 +16,12 @@ layout: page
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
 
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-
-    {% include index/objects.html %}
+    {% include index/objects.html title="Types"%}
 
   </div>
   <div class="col-md-12">
 
-    {% include index/data-download.html %}
+  
 
   </div>
 </div>
