@@ -8,18 +8,26 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+{% include feature/image.html objectid="UAA-1969-132-001;UAA-1969-012-064;UAA-1969-018-039" %}
+
+<iframe title="In Touch with U: The Archives" src="https://ualberta.aviaryplatform.com/embed/media/131657?embed=true&media_player=true" allow="fullscreen" frameborder="0"></iframe>
+## Data download 
+
+    {% include index/data-download.html %}
+
+    {% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary" %}
+
+## Technical Credits
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
