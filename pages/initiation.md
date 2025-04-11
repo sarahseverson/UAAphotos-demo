@@ -7,6 +7,7 @@ permalink: /initiation.html
 ## Initiation: 1909-1932
 
 IMAGE: Dunking Shute. Initiation chute - soak with soft soap and shot them down from Room 121, back of Athabasca Hall. October 1, 1913.
+
 Caption: Initiation chute, shot down from Room 121, back of Athabasca Hall, 1913
 
 From 1909 through 1932, second year “sophs” organized an initiation for first year “freshies.” The goal of the events was to rid the new students of their “freshness.” The Sophomore Court found freshies guilty of “Freshness.” One of the long standing punishments for being found guilty at the Sophomore Court was “the chute” where freshies were forced down a wooden slide into a tank of water from a second story window. “The poor ‘freshie’ plunged down the chute and disappeared, to emerge a moment later a choking, dripping bundle of flesh.” [1]
