@@ -1,14 +1,13 @@
 field,display_name,browse_link,external_link
 title,Title,
+description,Description,
 creator,Creator,true
 date,Date Created,
-description,Description,
 subject,Subjects,true
-location,Location
 source,Source,,true
 identifier,Identifier,,
 repository,Repository,,
-url,Internet Archive URL,,true
 rights,Rights,
-licenseurl,Rights Statement,,true
+licenseurl,Liscense URL,,true
 citation,Suggested Citation
+url,Internet Archive URL,,true
