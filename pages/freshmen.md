@@ -1,3 +1,9 @@
+---
+title: Freshmen Orientation
+layout: about
+permalink: /orientation.html
+---
+
 ## Freshmen Orientation
 Welcome events for first year students have changed a lot over the past 110 years at the University of Alberta. Today, the Week of Welcome for new students features concerts and pancake breakfasts. When the university first opened student orientation included the expected campus tours and course registration,as well as a freshmen initiation that could last for weeks. The initiation of first-year students, or “freshies” and “freshettes” as they were called, by upper class students started as soon as the university had upper class students. In The Gateway’s inaugural issue on November 21, 1910, there was talk of a successful initiation of first years. [1] The second year students, or “sophs,” short for “sophomores,” were responsible for initiation for the following two decades.
 
