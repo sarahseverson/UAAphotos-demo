@@ -1,5 +1,5 @@
 ---
-title: Initiation: 1909-1932
+title: Initiation 1909-1932
 layout: about
 permalink: /initiation.html
 ---
