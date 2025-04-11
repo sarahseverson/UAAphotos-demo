@@ -1,7 +1,7 @@
 ---
 title: Freshmen Orientation
 layout: about
-permalink: /orientation.html
+permalink: /freshmen.html
 ---
 
 ## Freshmen Orientation
@@ -17,7 +17,6 @@ Freshmen initiation was, on the other hand, a bit of a spectacle. From special F
 
 Support for initiation by the administration and regulations around initiation ebbed and flowed over the years until it was brought to a somewhat abrupt halt in 1933 when a student’s father sued the university over the damages initiation had done to his son. After that, initiation ceremonies became formalized as Freshmen Introduction Week and any remnants of the initiation of the early years slowly faded away.
 
- {% include feature/image.html objectid="https://omeka.library.ualberta.ca/files/fullsize/27a705eae2960944ce312d2824a68968.jpg;https://omeka.library.ualberta.ca/files/fullsize/3d05ec2acc2cf019e3e8b3aaef7e99d9.jpg;https://omeka.library.ualberta.ca/files/fullsize/3d7ba836378f2aac5eb21cc2ea5e366f.jpg;https://omeka.library.ualberta.ca/files/fullsize/e3febcc3052e69e5233b85a6b40f93a2.jpg" caption="Frosh Week, 1949;Blindfolded Freshmen, 1920;Latest Shampoo, 1922;Engineer Freshmen Registration, 1942" link="https://omeka.library.ualberta.ca/exhibits/show/orientation-week/intro-freshmen-orientation" alt=""Frosh Week, 1949;Blindfolded Freshmen, 1920;Latest Shampoo, 1922;Engineer Freshmen Registration, 1942" %}
 
 [1] The Gateway, vol. 1, no. 1, November 21, 1910, p. 9.
 
