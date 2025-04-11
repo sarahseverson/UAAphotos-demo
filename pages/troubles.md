@@ -1,7 +1,7 @@
 ---
 title: Initiation Troubles
 layout: about
-permalink: /initiation-troubles.html
+permalink: /troubles.html
 ---
 
 ## Initiation Troubles
