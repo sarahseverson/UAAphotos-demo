@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-{% include feature/nav-menu.html sections=" ;About the About Page" %}
+{% include feature/nav-menu.html sections=" About this collection;Techincal Credits; Data Download" %}
 
 ## About this collection 
 This collection of archival photographs depicts life and activities at the University of Alberta and surrounding communities. It is a small sample of the over 200,000 photographs currently housed in the University of Alberta Archives. 
