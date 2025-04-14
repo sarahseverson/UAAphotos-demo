@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-{% include feature/nav-menu.html sections=" About this collection;Techincal Credits; Data Download" %}
+{% include feature/nav-menu.html sections=" About this collection;Video; Data Download" %}
 
 
 
@@ -22,20 +22,23 @@ These photographs have been arranged into the collection to facilitate online ac
 
 {% include feature/modal.html button="Find out more information" title="when clicked:" text="This pop up box could contain contextual information that might be of interest to a reader. Here is a link to the collection on IA https://archive.org/details/university_of_alberta_libraries " color="primary" %}
 
-## Video 
-Ut consequatur fugiat qui earum veniam et distinctio optio et ullam galisum et nihil maiores vel accusantium totam. Quo fugiat officiis eum quidem fugiat ut provident doloremque qui aperiam corporis ut consequuntur quas.
+## Video test
 
-This is an test of the Avaiary platfrom iFrame embed 
+This is a test of the Avaiary Embed Media File Link
 <iframe title="In Touch with U: The Archives" src="https://ualberta.aviaryplatform.com/embed/media/131657?embed=true&media_player=true" allow="fullscreen" frameborder="0"></iframe>
 
+Ut consequatur fugiat qui earum veniam et distinctio optio et ullam galisum et nihil maiores vel accusantium totam. Quo fugiat officiis eum quidem fugiat ut provident doloremque qui aperiam corporis ut consequuntur quas. Ut consequatur fugiat qui earum veniam et distinctio optio et ullam galisum et nihil maiores vel accusantium totam. Quo fugiat officiis eum quidem fugiat ut provident doloremque qui aperiam corporis ut consequuntur quas.
 
-Ut consequatur fugiat qui earum veniam et distinctio optio et ullam galisum et nihil maiores vel accusantium totam. Quo fugiat officiis eum quidem fugiat ut provident doloremque qui aperiam corporis ut consequuntur quas.
+This is a test of the Embed Resource Media Player Link 
+<iframe title="In Touch with U: Social Housing" src="https://ualberta.aviaryplatform.com/embed/media/256981?embed=true&media_player=true" allow="fullscreen" frameborder="0"></iframe> 
+
+<div style="padding: 100% 0 0 0;position: relative;overflow: hidden;width: 100%;" ><iframe title="In Touch with U: Social Housing" style="position:absolute;top:0;left:0;bottom: 0;right: 0;width:100%;height:100%;" src="https://ualberta.aviaryplatform.com/collections/3122/collection_resources/138608?embed=true" allow="fullscreen" frameborder="0"></iframe></div> 
 
 ## Data download 
 
-Collection data is provided in multiple formats to encourage people to use and visualize in their own reaserch. 
+Collection data is provided in multiple formats to encourage people to use and visualize it in their research. Find the source code in GitHub https://github.com/sarahseverson/UAAphotos-demo 
 
-   <div class="col-md-12">
+   <div class="col-md-8">
 
     {% include index/data-download.html %}
 
