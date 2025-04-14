@@ -10,7 +10,7 @@ Exhibit text from [https://omeka.library.ualberta.ca/exhibits/show/orientation-w
 
 Objections to initiation rituals started to gain traction in the 1920s when real consequences began to be felt. Two major cases against initiation were those of Dwight Rice and Armand Powlett.
 
-{% include feature/image.html objectid="https://omeka.library.ualberta.ca/exhibits/show/orientation-week/item/2611" float="left" %}
+{% include feature/image.html objectid="UAA-1969-012-197-1 float="left" %}
 
 The Rice Affair of 1924-1925 was one of the first major publicized criticisms of initiation. Dwight H. Rice was a teacher in his mid-20s who decided to attend university to get a bachelor’s degree. As a mature student, Rice refused to participate in the Freshie Parade around campus and wear the outfit designated for freshies that year. Later in the term, Rice was summoned to Sophomore Court over his refusal to participate. When Rice failed to attend Sophomore Court, the Student Union summoned him to Student Court, the main disciplinary committee of the student body, run by the Student Union. Again, Rice failed to attend.
 
