@@ -4,6 +4,9 @@ layout: about
 permalink: /initiation.html
 ---
 
+Text from the Archives Exhibit [https://omeka.library.ualberta.ca/exhibits/show/orientation-week/intro-freshmen-orientation
+](https://omeka.library.ualberta.ca/exhibits/show/orientation-week/initiation)
+
 ## Initiation: 1909-1932
 
 IMAGE: Dunking Shute. Initiation chute - soak with soft soap and shot them down from Room 121, back of Athabasca Hall. October 1, 1913.
