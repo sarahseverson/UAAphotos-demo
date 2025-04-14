@@ -4,6 +4,8 @@ layout: about
 permalink: /troubles.html
 ---
 
+Exhibit text from [https://omeka.library.ualberta.ca/exhibits/show/orientation-week/initiation-troubles](https://omeka.library.ualberta.ca/exhibits/show/orientation-week/initiation-troubles)
+
 ## Initiation Troubles
 
 Objections to initiation rituals started to gain traction in the 1920s when real consequences began to be felt. Two major cases against initiation were those of Dwight Rice and Armand Powlett.
