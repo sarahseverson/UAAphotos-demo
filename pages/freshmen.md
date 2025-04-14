@@ -3,6 +3,7 @@ title: Freshmen Orientation
 layout: about
 permalink: /freshmen.html
 ---
+Text from the Archives Exhbit https://omeka.library.ualberta.ca/exhibits/show/orientation-week/intro-freshmen-orientation
 
 ## Freshmen Orientation
 Welcome events for first year students have changed a lot over the past 110 years at the University of Alberta. Today, the Week of Welcome for new students features concerts and pancake breakfasts. When the university first opened student orientation included the expected campus tours and course registration,as well as a freshmen initiation that could last for weeks. The initiation of first-year students, or “freshies” and “freshettes” as they were called, by upper class students started as soon as the university had upper class students. In The Gateway’s inaugural issue on November 21, 1910, there was talk of a successful initiation of first years. [1] The second year students, or “sophs,” short for “sophomores,” were responsible for initiation for the following two decades.
@@ -14,6 +15,9 @@ Initiation was intended to welcome new students and mark a delineation between h
 Initiation was largely divided by gender, with the Wauneita Society taking charge of most of the initiation for the freshettes. [3] Wauneita initiation was largely secret and few remnants of it survive in the University Archives. [4]
 
 Freshmen initiation was, on the other hand, a bit of a spectacle. From special Freshie outfits and accessories to the Freshie Parade down Jasper Avenue and articles in The Gateway, initiation was a public event. It was sometimes in good spirits, sometimes dangerous and humiliating. Participation was enforced through a system of student courts. Some students defended it long after they graduated, while The History of The University of Alberta: 1908–1958 calls its eventual end, “the abolition of the time-honored, or rather dishonored, practice of freshman initiation.” [5]
+
+### Farm photos to test out three feature images
+{% include feature/image.html objectid="UAA-1969-097-258-3;UAA-1969-097-073;UAA-1969-010-028" %}
 
 Support for initiation by the administration and regulations around initiation ebbed and flowed over the years until it was brought to a somewhat abrupt halt in 1933 when a student’s father sued the university over the damages initiation had done to his son. After that, initiation ceremonies became formalized as Freshmen Introduction Week and any remnants of the initiation of the early years slowly faded away.
 
