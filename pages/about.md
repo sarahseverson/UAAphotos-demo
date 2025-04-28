@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-{% include feature/nav-menu.html sections=" About this collection;Video; Data Download" %}
+{% include feature/nav-menu.html sections=" About this collection;Video;Data Download" %}
 
 
 
@@ -26,19 +26,14 @@ These photographs have been arranged into the collection to facilitate online ac
 
 This is a test of the Avaiary Embed Media File Link
 
-<iframe title="In Touch with U: The Archives" src="https://ualberta.aviaryplatform.com/embed/media/131657?embed=true&media_player=true" allow="fullscreen" frameborder="0"></iframe>
-
 Ut consequatur fugiat qui earum veniam et distinctio optio et ullam galisum et nihil maiores vel accusantium totam. Quo fugiat officiis eum quidem fugiat ut provident doloremque qui aperiam corporis ut consequuntur quas. Ut consequatur fugiat qui earum veniam et distinctio optio et ullam galisum et nihil maiores vel accusantium totam. Quo fugiat officiis eum quidem fugiat ut provident doloremque qui aperiam corporis ut consequuntur quas.
-
-This is a test of the Embed Resource Media Player Link 
-<iframe title="In Touch with U: Social Housing" src="https://ualberta.aviaryplatform.com/embed/media/256981?embed=true&media_player=true" allow="fullscreen" frameborder="0"></iframe> 
-
-Quo fugiat officiis eum quidem fugiat ut provident doloremque qui aperiam corporis ut consequuntur quas. 
 
 
 ## Data download 
 
-Collection data is provided in multiple formats to encourage people to use and visualize it in their research. Find the source code in GitHub https://github.com/sarahseverson/UAAphotos-demo 
+Collection data is provided in multiple formats to encourage people to use and visualize it in their research.
+
+Find the source code in GitHub https://github.com/sarahseverson/UAAphotos-demo 
 
    <div class="col-md-8">
 
